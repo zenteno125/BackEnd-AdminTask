@@ -19,3 +19,6 @@ Decidí llevar mi proyecto en línea y elegí Railway para el despliegue. Tras c
 Reconocí la importancia de almacenar las contraseñas de forma segura y aprendí cómo utilizar la librería `bcrypt` para hash y salting, implementando esta funcionalidad en el manejo de contraseñas en mi aplicación.
 
 Con estos pasos, he logrado crear un backend funcional y seguro en Node.js que gestiona tareas, se conecta a una base de datos MySQL, y ha sido desplegado exitosamente en línea con la plataforma Railway. Estoy satisfecho con el progreso realizado y emocionado por las oportunidades futuras de mejora y expansión.
+
+### **Documentación**
+https://documenter.getpostman.com/view/21290432/2s9Y5crzh7
