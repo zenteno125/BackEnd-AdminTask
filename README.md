@@ -1,3 +1,24 @@
+# Clonar el Repositorio
+$ git clone https://github.com/tu-nombre-de-usuario/tu-repo.git
+$ cd tu-repo
+
+# Instalar Dependencias
+$ `npm install`
+
+# Crear Archivo de Entorno
+# Crea un archivo .env y agrega las variables de entorno necesarias
+
+# Configurar la Base de Datos (si es necesario)
+# Configura tu base de datos y actualiza .env con los detalles de conexión
+
+# Iniciar el Servidor
+$ `npm start` 
+ o ubicado en carpeta main `node index.js`
+
+# Acceder a la API
+# Abre tu navegador o utiliza Postman con endpoints como http://localhost:3000/api/
+
+
 ## Resumen de Pasos Realizados en el Proyecto
 
 ### **Preparación Inicial:**
