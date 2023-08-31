@@ -10,9 +10,11 @@ const Task = db.define('Task', {
   nombre: {
     type: Sequelize.STRING,
     allowNull: false,
+    
   },
   descripcion: {
     type: Sequelize.TEXT,
+    defaultValue: "description",
   },
   fechaUltimaModificacion: {
     type: Sequelize.DATE,
