@@ -16,7 +16,7 @@ const Task = db.define('Task', {
   },
   fechaUltimaModificacion: {
     type: Sequelize.DATE,
-    allowNull: false,
+    allowNull: true,
     defaultValue: Sequelize.NOW,
   },
   completado: {
