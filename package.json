@@ -13,10 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "mysql2": "^3.6.0",
+    "railway": "^2.0.17",
     "sequelize": "^6.32.1"
   }
 }
